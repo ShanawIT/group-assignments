@@ -8,7 +8,9 @@ This tutorial outlines the process of assigning security groups to users in Entr
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
 <h2>Operating Systems Used </h2>
-- Windows 11
+- MacOS - Primary operating system used
+
+- Windows 11 - Familiar with performing
 <h2>Users Created</h2>
 <p>
 <img width="1680" height="1050" alt="Screenshot 2026-08-30 at 6 04 42 PM" src="https://github.com/user-attachments/assets/f3b28e92-09ab-4cc9-9adc-a23569c3c9ab" />
